@@ -1,0 +1,33 @@
+{
+  "name": "FitnessMath",
+  "version": "1.0.1",
+  "description": "Fitness and nutrition formulas for DIY trackers: BMR, TDEE, MET calories burned, macro calories, BMI.",
+  "keywords": [
+    "fitness",
+    "nutrition",
+    "calories",
+    "bmr",
+    "tdee",
+    "met"
+  ],
+  "homepage": "https://snowbelly.app/tools/calorie-calculator/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shipandsail/FitnessMath.git"
+  },
+  "authors": [
+    {
+      "name": "Alex Bell",
+      "email": "strawbelly.app@gmail.com",
+      "url": "https://snowbelly.app/",
+      "maintainer": true
+    }
+  ],
+  "license": "MIT",
+  "frameworks": "*",
+  "platforms": "*",
+  "headers": "FitnessMath.h",
+  "examples": [
+    "examples/*/*.ino"
+  ]
+}
